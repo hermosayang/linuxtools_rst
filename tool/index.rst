@@ -26,4 +26,4 @@
     wget
     scp
     crontab
-
+    perf top -p [PID]
